@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chiemerie Onoh - Nigerian Cooking Portfolio</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #fff8f0; margin: 0; padding: 0;">
+
+    <!-- Header -->
+    <header style="background-color: #008000; color: white; padding: 20px; text-align: center;">
+        <h1>Chiemerie Onoh</h1>
+        <p>Authentic Nigerian Meals & Catering Services</p>
+    </header>
+
+    <!-- About -->
+    <section style="padding: 30px; text-align: center;">
+        <h2>About Me</h2>
+        <p>Hello! I'm Chiemerie Onoh, a passionate Nigerian cook who specializes in traditional and modern Nigerian dishes. From spicy jollof rice to tasty egusi soup, I bring flavor to every table.</p>
+    </section>
+
+    <!-- Nigerian Meals -->
+    <section style="padding: 30px; background-color: #f4f4f4;">
+        <h2 style="text-align: center;">Our Nigerian Delicacies</h2>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Jollof_Rice_served_with_dodo.jpg" alt="Jollof Rice" style="width: 300px;">
+                <p style="text-align: center;">Jollof Rice</p>
+            </div>
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Egusi_soup_served_with_pounded_yam.jpg" alt="Egusi Soup" style="width: 300px;">
+                <p style="text-align: center;">Egusi Soup with Pounded Yam</p>
+            </div>
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Nigerian_suya.jpg" alt="Suya" style="width: 300px;">
+                <p style="text-align: center;">Spicy Suya</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services -->
+    <section style="padding: 30px; text-align: center;">
+        <h2>Services</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li>🍲 Home-cooked Meal Delivery</li>
+            <li>🎉 Catering for Events & Parties</li>
+            <li>👩‍🍳 Private Cooking Classes</li>
+            <li>📦 Nigerian Food Packaging</li>
+        </ul>
+    </section>
+
+    <!-- Contact -->
+    <section style="padding: 30px; background-color: #f9f9f9;">
+        <h2 style="text-align: center;">Contact Information</h2>
+        <p style="text-align: center;">
+            📞 Phone: 07042339855 <br>
+            📍 Address: Pan-Atlantic University, Lagos, Nigeria <br>
+            📧 Email: chiemeriecooks@example.com
+        </p>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background-color: #008000; color: white; text-align: center; padding: 10px;">
+        &copy; 2025 Chiemerie Onoh. All rights reserved.
+    </footer>
+
+</body>
+</html>
